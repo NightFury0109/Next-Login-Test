@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://goldwolfdev:hts981105@goldwolf.17jbimi.mongodb.net/",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
